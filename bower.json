@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "0.0.1",
+  "authors": [
+    "nattyc <natty.coleman@gmail.com>"
+  ],
+  "description": "a few handy mixins for positioning and configuring common elements in SCSS",
+  "main": "simple-positioning.scss",
+  "keywords": [
+    "sass",
+    "mixin",
+    "layout"
+  ],
+  "license": "MIT",
+  "homepage": "nattycoleman.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
